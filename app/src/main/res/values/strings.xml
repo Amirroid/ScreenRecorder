@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Screen Recorder</string>
+    <string name="settings">settings</string>
+    <string name="screen_recorder">Screen recorder</string>
+    <string name="resolution">Resolution</string>
+    <string name="frame_rate">Frame rate</string>
+    <string name="video_quality">Video quality</string>
+    <string name="orientation">Orientation</string>
+    <string name="auto">Auto</string>
+    <string name="landscape">Landscape</string>
+    <string name="portrait">Portrait</string>
+    <string name="sound_source">Sound source</string>
+    <string name="mic">Mic</string>
+    <string name="mute">Mute</string>
+    <string name="system_sounds">System sounds</string>
+    <string name="open_settings">Open settings</string>
+    <string name="cancel">Cancel</string>
+    <string name="recording">Recording...</string>
+    <string name="description_notification">screen recording run in background!\n</string>
+    <string name="stop">stop</string>
+    <string name="delete">delete</string>
+    <string name="redo">redo</string>
+    <string name="undo">undo</string>
+    <string name="other_settings">Other settings</string>
+    <string name="open_default_camera">Opening camera automatically</string>
+    <string name="files">Files</string>
+</resources>
